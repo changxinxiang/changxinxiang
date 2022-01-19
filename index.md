@@ -8,7 +8,7 @@ I am now an undergraduate in Nanjing University, Business School. I major in eco
 - Strategic management (especially in sustanibility, CSR and environmental topics)
 - Environmental economics
 ## CV
-More info about Changxin Xiang can be found in [CV](/CV_Changxin Xiang_2021.pdf)
+More info about Changxin Xiang can be found in [CV](https://github.com/changxinxiang/changxinxiang/blob/gh-pages/CV_Changxin%20Xiang_2021.pdf)
 ## Research papers
 - 1
 - 2
