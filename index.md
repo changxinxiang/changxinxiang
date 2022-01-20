@@ -8,7 +8,8 @@ I am now an undergraduate in Nanjing University, Business School. I major in eco
 ## CV
 More info about Changxin Xiang can be found in [CV](https://github.com/changxinxiang/changxinxiang/blob/gh-pages/CV_Changxin%20Xiang_2021.pdf)
 ## Research papers
+1. Changxin Xiang, 2020, working paper, "Brave advance of torrent": Dual institutional Embeddedness and the choice of environmental strategy of China's MNEs
 
 ## Open resources
 - Dynamic Catalogue of Recent Top Management Journal Papers——Field: CSR, Environment, Non-marketing
-- Personal pratical notes of econometrics and software
+- Personal pratical notes of econometrics and software [Notes](https://github.com/changxinxiang/changxinxiang/blob/gh-pages/Personal%20pratical%20notes%20of%20econometrics%20and%20software.zip)
